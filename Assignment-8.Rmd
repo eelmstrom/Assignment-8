@@ -1,0 +1,47 @@
+---
+title: "Assignment-8"
+subtitle: "FISH 497"
+author: "Elizabeth Elmstrom<br>elmstrom@uw.edu"
+date: "3/15/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me | Personal
+
+- I was born in South Kingstown, Rhode Island USA.
+- My favorite food.. Probably oysters.
+- I'm a dog person!
+
+## About Me | Academic
+
+- University of Vermont
+- Environmental Science
+
+## About Me | Things I've missed during the pandemic
+
+1) My family!!
+2) Going into the office.
+3) Going to yoga.
+
+# Data science
+
+## Course topics | 3 things I enjoyed learning about
+
+1) Learning the ins and outs of GitHub has been a *game changer*.
+2) Specifically, I'm relieved to understand how to build an organized repository, for my personal research life, and for the process of publication.
+3) I'm also excited to try Rmarkdown to publish a paper.
+
+## Course topics | 3 things I want to learn more about
+
+1) Code review: I think it would be cool to have this as a group assignment. Just a thought. Might not fit with the class structure though.
+2) Package creation: I heard once that you should make your paper into a package. Is this a good idea? Or even really necessary?
+3) Rmarkdown. But I think this will just take practice.
+
+## {data-background=IMG_4325.jpg data-background-size=cover}
+
